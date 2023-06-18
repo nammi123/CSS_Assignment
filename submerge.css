@@ -1,0 +1,106 @@
+body {
+    margin: 0%;
+}
+
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+
+
+nav {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    height: 4rem;
+    position: fixed;
+    background-color: peru;
+    z-index: 2;
+}
+.logo {
+    width: 50%;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+.info {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+.info>div {
+    font-size: 120%;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    padding: 1%;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+#abt-sub {
+    position: absolute;
+    top: 90%;
+    left: 65%;
+    display: none;
+}
+.sectionA {
+    display: flex;
+    position: relative;
+    top: 4rem;
+}
+
+user agent stylesheet
+section {
+    display: block;
+}
+
+
+.sectionB {
+    position: relative;
+    top: 4rem;
+    background-color: gray;
+    padding: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer {
+    position: relative;
+    top: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: cadetblue;
+}
+.button{
+    appearance: auto;
+    text-rendering: auto;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 2px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+}
+h4{
+    color:wheat;
+}
+
+/* Naminder Dahiya  */
